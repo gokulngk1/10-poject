@@ -23,6 +23,8 @@ h1{
 .countdown_container{
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
+    justify-self: center;
 }
 .big-text{
     font-weight: bold;
