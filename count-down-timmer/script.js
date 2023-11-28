@@ -51,7 +51,7 @@ const hoursElement = document.getElementById('hours');
 const minsElement = document.getElementById('mins');
 const secondsElement = document.getElementById('seconds');
 
-const newYears = "2024-01-01"; // Corrected date format to "YYYY-MM-DD"
+const newYears = "2023-12-04"; // Corrected date format to "YYYY-MM-DD"
 
 function countdown() {
     const newYearsDate = new Date(newYears);
